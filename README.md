@@ -1,5 +1,6 @@
 ## Hello, I'm ILCHAN AHN!
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aileebot)](https://solved.ac/aileebot/)
 
 - 👨🏻‍💻하루하루 최선을 다 하는 개발자 안일찬입니다. 😀
 - 🌱 I'm currently learning Back-end and DevOps.
@@ -7,9 +8,7 @@
 - 📜Certificated  Korea IT backend program in Seoul.
 - My Email is here! 👉  ahnilch@naver.com
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aileebot)](https://solved.ac/aileebot/)
 ## 📊GitHub Stats 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahnilhuman2&theme=Gradient&show_icons=true) 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahnilhuman2&show_icons=true&theme=dark)
 
 ## 🛠Skill
