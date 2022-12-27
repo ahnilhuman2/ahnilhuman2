@@ -8,9 +8,6 @@
 - 📜Certificated  Korea IT backend program in Seoul.
 - My Email is here! 👉  ahnilch@naver.com
 
-## 📊GitHub Stats 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahnilhuman2&show_icons=true&theme=dark)
-
 ## 🛠Skill
 <img src="https://img.shields.io/badge/Java-E34F26?style=flat&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>
@@ -26,4 +23,5 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC.svg?style=flat&logo=Sourcetree&logoColor=white)
 
-
+## 📊GitHub Stats 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahnilhuman2&show_icons=true&theme=dark)
