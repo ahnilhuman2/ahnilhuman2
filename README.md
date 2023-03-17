@@ -1,6 +1,8 @@
 ## Hello, I'm ILCHAN AHN!
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aileebot)](https://solved.ac/aileebot/)
+<a href="https://opgc.me/#/users/ahnilhuman2" target="_blank"><img src="https://api.opgc.me/githubs/users/ahnilhuman2/tag/?theme=prism" /></a><a>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahnilhuman2&show_icons=true&theme=cobalt)</a>
+</div>
 
 - 👨🏻‍💻하루하루 최선을 다 하는 개발자 안일찬입니다. 😀
 - 🌱 I'm currently learning Back-end and DevOps.
