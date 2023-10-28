@@ -7,7 +7,6 @@
 - 🌱 I'm currently learning Back-end and DevOps.
 - 🎓Graduated : SahmYook university.
 - 📜Certificated  Korea IT backend program in Seoul.
-- My Email is here! 👉  ahnilch@naver.com
 
 ## 🛠Skill
 <img src="https://img.shields.io/badge/Java-E34F26?style=flat&logo=Java&logoColor=white"/></a>
