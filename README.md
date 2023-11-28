@@ -4,9 +4,9 @@
 
 
 - 👨🏻‍💻하루하루 최선을 다 하는 개발자입니다. 😀
-- 🌱 I'm currently learning Back-end and DevOps.
-- 🎓Graduated : SahmYook university.
-- 📜Certificated  Korea IT backend program in Seoul.
+- 👨🏻‍💻 I am currently working as a back-end engineer at HANPASS.
+- 🏙 company : [HANPASS(한패스)](https://www.hanpass.com/en/)
+- My Email is here! 👉 ahnilch1717@gmail.com
 
 ## 🛠Skill
 <img src="https://img.shields.io/badge/Java-E34F26?style=flat&logo=Java&logoColor=white"/></a>
