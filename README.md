@@ -2,9 +2,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aileebot)](https://solved.ac/aileebot/)
 
-
-- 👨🏻‍💻하루하루 최선을 다 하는 개발자입니다. 😀
-- 👨🏻‍💻 I am currently working as a back-end engineer at HANPASS.
 - 🏙 company : [HANPASS(한패스)](https://www.hanpass.com/en/)
 - My Email is here! 👉 ahnilch1717@gmail.com
 
